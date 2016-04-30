@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ephy="http://gnome.org/ns/epiphany#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel rdf:about="file:///home/pi/.config/epiphany/bookmarks.rdf">
+    <title>Epiphany bookmarks</title>
+    <link>http://www.gnome.org/projects/epiphany/</link>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://duckduckgo.com"/>
+        <rdf:li rdf:resource="http://140.112.18.199:3582/"/>
+        <rdf:li rdf:resource="http://140.112.20.126:3582/"/>
+        <rdf:li rdf:resource="http://140.112.18.182:80/"/>
+        <rdf:li rdf:resource="http://140.112.18.149:80/"/>
+        <rdf:li rdf:resource="http://140.112.18.61:80/"/>
+        <rdf:li rdf:resource="http://140.112.20.104:80/"/>
+        <rdf:li rdf:resource="http://140.112.18.245:80/"/>
+        <rdf:li rdf:resource="http://140.112.20.197:80/"/>
+        <rdf:li rdf:resource="http://140.112.20.16:80/"/>
+        <rdf:li rdf:resource="http://140.112.20.51:80/"/>
+        <rdf:li rdf:resource="http://140.112.18.83:80/"/>
+        <rdf:li rdf:resource="http://140.112.18.126:80/"/>
+        <rdf:li rdf:resource="http://140.112.20.136:5800/"/>
+        <rdf:li rdf:resource="http://140.112.20.22:3580/"/>
+        <rdf:li rdf:resource="http://140.112.20.254:3580/"/>
+        <rdf:li rdf:resource="http://140.112.20.114:80/"/>
+        <rdf:li rdf:resource="http://140.112.20.112:80/"/>
+        <rdf:li rdf:resource="http://140.112.18.26:80/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://duckduckgo.com">
+    <title>Search the web</title>
+    <link>https://duckduckgo.com</link>
+    <ephy:smartlink>https://duckduckgo.com/?q=%s&amp;t=raspberrypi</ephy:smartlink>
+  </item>
+  <item rdf:about="http://140.112.18.199:3582/">
+    <title>NTULAB Web-based Configuration</title>
+    <link>http://140.112.18.199:3582/</link>
+  </item>
+  <item rdf:about="http://140.112.20.126:3582/">
+    <title>LAB228-PC Web-based Configuration</title>
+    <link>http://140.112.20.126:3582/</link>
+  </item>
+  <item rdf:about="http://140.112.18.182:80/">
+    <title>HP Color LaserJet CM2320nf MFP (8F55D5)</title>
+    <link>http://140.112.18.182:80/</link>
+  </item>
+  <item rdf:about="http://140.112.18.149:80/">
+    <title>MX-3640N (3505617X00)</title>
+    <link>http://140.112.18.149:80/</link>
+  </item>
+  <item rdf:about="http://140.112.18.61:80/">
+    <title>EPSON AL-CX29 (B4:D0:2F)</title>
+    <link>http://140.112.18.61:80/</link>
+  </item>
+  <item rdf:about="http://140.112.20.104:80/">
+    <title>HP LaserJet 400 colorMFP M475dw (2C6D4E)</title>
+    <link>http://140.112.20.104:80/</link>
+  </item>
+  <item rdf:about="http://140.112.18.245:80/">
+    <title>HP Color LaserJet MFP M476dw (B202E0)</title>
+    <link>http://140.112.18.245:80/</link>
+  </item>
+  <item rdf:about="http://140.112.20.197:80/">
+    <title>FUJI XEROX DocuPrint CM405 df (E4:4D:D8)</title>
+    <link>http://140.112.20.197:80/</link>
+  </item>
+  <item rdf:about="http://140.112.20.16:80/">
+    <title>HP LaserJet M402dn (B11AFF)</title>
+    <link>http://140.112.20.16:80/</link>
+  </item>
+  <item rdf:about="http://140.112.20.51:80/">
+    <title>HP LaserJet 400 color M451dn (0701EA)</title>
+    <link>http://140.112.20.51:80/</link>
+  </item>
+  <item rdf:about="http://140.112.18.83:80/">
+    <title>EPSON AL-CX29 (B4:D2:E2)</title>
+    <link>http://140.112.18.83:80/</link>
+  </item>
+  <item rdf:about="http://140.112.18.126:80/">
+    <title>HP LaserJet Pro MFP M225dw (AC6DE9)</title>
+    <link>http://140.112.18.126:80/</link>
+  </item>
+  <item rdf:about="http://140.112.20.136:5800/">
+    <title>edagroup's remote desktop on edgroup</title>
+    <link>http://140.112.20.136:5800/</link>
+  </item>
+  <item rdf:about="http://140.112.20.22:3580/">
+    <title>NEUMANN-PC Web-based Configuration</title>
+    <link>http://140.112.20.22:3580/</link>
+  </item>
+  <item rdf:about="http://140.112.20.254:3580/">
+    <title>DREAMIN Web-based Configuration</title>
+    <link>http://140.112.20.254:3580/</link>
+  </item>
+  <item rdf:about="http://140.112.20.114:80/">
+    <title>FUJI XEROX DocuPrint CM405 df (E4:4D:F6)</title>
+    <link>http://140.112.20.114:80/</link>
+  </item>
+  <item rdf:about="http://140.112.20.112:80/">
+    <title>HP LaserJet 400 M401dn (F2DE26)</title>
+    <link>http://140.112.20.112:80/</link>
+  </item>
+  <item rdf:about="http://140.112.18.26:80/">
+    <title>MB2235-F0421EDB</title>
+    <link>http://140.112.18.26:80/</link>
+  </item>
+</rdf:RDF>

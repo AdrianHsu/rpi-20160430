@@ -1,0 +1,1732 @@
+Xsession: X session started for pi at Wed May  6 23:31:36 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2519): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (pcmanfm:2522): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2519): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2519): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2519): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2519): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2519): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2519): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2519): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2519): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2519): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to connected
+** Message: eth0: CARRIER
+** Message: eth0: Configured 169.254.101.16/16
+ALSA lib control.c:951:(snd_ctl_open_noupdate) Invalid CTL Äfv:
+
+** (lxpanel:2519): WARNING **: volumealsa: Default ALSA device not valid - resetting to internal
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=2
+
+(lxpanel:2519): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+
+** (epiphany-browser:2610): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (epiphany-browser:2610): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (epiphany-browser:2610): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2519): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:2610): WARNING **: Error caching form data: The name org.freedesktop.secrets was not provided by any .service files
+Openbox-Message: Requested key "F13" does not exist on the display
+** Message: eth0: Expired 169.254.101.16/16
+** Message: Status changed to connecting
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2519): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+** Message: eth0: Link is down
+** Message: Status changed to disconnected
+** Message: eth0: Link is up, configuring
+** Message: Status changed to connecting
+** Message: eth0: Link is down
+** Message: Status changed to disconnected
+** Message: eth0: Link is up, configuring
+** Message: Status changed to connecting
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2522): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2519): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (lxpanel:2519): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(pcmanfm:2522): Gtk-WARNING **: Radio group does not contain an action with value '0'
+** Message: eth0: Configured 169.254.101.16/16
+** Message: Status changed to connected
+
+(pcmanfm:2522): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2522): GLib-CRITICAL **: Source ID 708 was not found when attempting to remove it
+
+(pcmanfm:2522): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2522): GLib-CRITICAL **: Source ID 831 was not found when attempting to remove it
+
+(pcmanfm:2522): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2522): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2522): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2522): GLib-CRITICAL **: Source ID 1506 was not found when attempting to remove it
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(lxterminal:5586): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:5586): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:5586): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:5586): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:5586): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:5586): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:5586): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2519): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Requested key "F13" does not exist on the display
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 14456 requests (14453 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Fri Jul 24 07:07:07 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2455): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2450): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2448): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2450): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2448): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(process:2493): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (gedit:2493): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (gedit:2493): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (gedit:2493): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2507): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2507): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2507): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2507): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2507): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2507): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2507): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2507): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (lxpanel:2448): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(process:2542): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (zenity:2542): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2542): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2542): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 13952 requests (13948 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Fri Jul 24 07:13:11 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2460): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2455): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2453): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2453): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2455): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(process:2507): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (gedit:2507): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (gedit:2507): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (gedit:2507): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(process:2550): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2550): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2550): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2550): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2550): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2550): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2550): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2550): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2575): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2588): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2455): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2455): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2453): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Xsession: X session started for pi at Fri Jul 24 10:17:39 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2459): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2454): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2452): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2452): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2454): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2452): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2452): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2452): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2452): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2452): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2452): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2452): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2452): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2452): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2452): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(process:2496): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2496): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2496): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2496): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2496): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2496): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2496): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2496): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2452): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(process:2538): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2538): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2538): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2538): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2538): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2538): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2538): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2538): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2452): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2554): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2454): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2452): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2454): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(process:2566): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (gedit:2566): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (gedit:2566): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (gedit:2566): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2452): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2680): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2680): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2680): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2680): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2680): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2680): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2680): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2680): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2452): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (lxpanel:2452): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(process:2749): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (zenity:2749): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2749): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2749): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2452): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 45973 requests (45970 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Fri Jul 24 16:03:16 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2463): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2459): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2456): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2456): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2459): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(process:2500): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2459): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2459): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2459): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2459): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2527): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(leafpad:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(leafpad:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(leafpad:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(leafpad:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(leafpad:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(leafpad:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(leafpad:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2536): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (zenity:2536): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2536): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2536): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 10165 requests (10165 known processed) with 0 events remaining.
+Xsession: X session started for pi at Fri Jul 24 16:08:10 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2466): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2459): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2461): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2459): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (pcmanfm:2461): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(process:2504): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2461): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2461): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(process:2518): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (gedit:2518): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (gedit:2518): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (gedit:2518): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2459): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Xsession: X session started for pi at Fri Jul 24 16:13:57 UTC 2015
+localuser:pi being added to access control list
+
+(process:2465): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2460): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2458): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2458): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2460): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2458): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2458): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2458): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+Xsession: X session started for pi at Fri Jul 24 16:17:45 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2463): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2458): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2456): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2458): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2456): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(process:2511): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2511): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2511): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2511): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2511): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2511): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2511): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2511): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2526): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2458): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): GLib-CRITICAL **: Source ID 1340 was not found when attempting to remove it
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): GLib-CRITICAL **: Source ID 1392 was not found when attempting to remove it
+
+(pcmanfm:2458): GLib-CRITICAL **: Source ID 1813 was not found when attempting to remove it
+
+(process:2547): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): GLib-CRITICAL **: Source ID 2618 was not found when attempting to remove it
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2458): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (lxpanel:2456): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(process:2697): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (gedit:2697): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (gedit:2697): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (gedit:2697): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2716): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2716): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2716): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2716): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2716): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2716): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2716): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2716): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+Xsession: X session started for pi at Fri Jul 24 16:17:52 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2476): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2471): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2469): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2471): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2469): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2469): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2469): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2469): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2469): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2469): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2469): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2469): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(process:2518): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2471): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2471): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(process:2531): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (gedit:2531): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (gedit:2531): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (gedit:2531): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2547): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2471): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2469): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(openbox:2467): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+
+(openbox:2467): GLib-CRITICAL **: Source ID 10 was not found when attempting to remove it
+
+(openbox:2467): GLib-CRITICAL **: Source ID 11 was not found when attempting to remove it
+Xsession: X session started for pi at Fri Jul 24 16:35:42 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2455): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2450): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2448): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2450): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2448): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(process:2492): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2498): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2450): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2450): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(process:2512): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(leafpad:2512): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(leafpad:2512): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(leafpad:2512): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(leafpad:2512): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(leafpad:2512): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(leafpad:2512): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(leafpad:2512): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2448): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(openbox:2446): GLib-CRITICAL **: Source ID 9 was not found when attempting to remove it
+Openbox-Message: Requested key "F13" does not exist on the display
+Xsession: X session started for pi at Fri Jul 24 16:35:07 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2467): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2462): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2460): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2462): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2460): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2460): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2460): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2460): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2460): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(process:2502): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2460): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2462): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(process:2515): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(leafpad:2515): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(leafpad:2515): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(leafpad:2515): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(leafpad:2515): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(leafpad:2515): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(leafpad:2515): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(leafpad:2515): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2460): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2520): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2520): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2520): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2520): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2520): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2520): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2520): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2520): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2460): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2547): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2547): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2460): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2567): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2462): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2462): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2460): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2462): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(process:2582): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2462): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2462): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2460): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Xsession: X session started for pi at Fri Jul 24 17:21:42 UTC 2015
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2479): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2472): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2474): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2474): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2472): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2472): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2472): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2472): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2472): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2472): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2472): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2472): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(process:2519): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2474): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2474): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2474): GLib-CRITICAL **: Source ID 1259 was not found when attempting to remove it
+
+(pcmanfm:2474): GLib-CRITICAL **: Source ID 1310 was not found when attempting to remove it
+
+(pcmanfm:2474): GLib-CRITICAL **: Source ID 1635 was not found when attempting to remove it
+
+(pcmanfm:2474): GLib-CRITICAL **: Source ID 1950 was not found when attempting to remove it
+
+(pcmanfm:2474): GLib-CRITICAL **: Source ID 2087 was not found when attempting to remove it
+
+(pcmanfm:2474): GLib-CRITICAL **: Source ID 2208 was not found when attempting to remove it
+
+(process:2546): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(xfce4-mixer:2546): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(xfce4-mixer:2546): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(xfce4-mixer:2546): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(xfce4-mixer:2546): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(xfce4-mixer:2546): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(xfce4-mixer:2546): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2474): GLib-CRITICAL **: Source ID 2276 was not found when attempting to remove it
+** Message: eth0: Link is up, configuring
+** Message: Status changed to connecting
+** Message: eth0: Link is down
+** Message: Status changed to disconnected
+** Message: eth0: Link is up, configuring
+** Message: Status changed to connecting
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: eth0: Configured 169.254.101.16/16
+** Message: Status changed to connected
+
+(process:2651): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (epiphany-browser:2651): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (epiphany-browser:2651): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (epiphany-browser:2651): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:2651): WARNING **: Error caching form data: The name org.freedesktop.secrets was not provided by any .service files
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(process:2722): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (epiphany-browser:2722): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(epiphany-browser:2651): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(epiphany-browser:2651): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(epiphany-browser:2651): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(process:2738): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2738): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2738): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2738): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2738): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2738): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2738): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2738): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(epiphany-browser:2651): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+** Message: eth0: Configured 169.254.101.16/16
+
+(openbox:2470): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+
+(process:2815): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2815): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2815): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2815): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2815): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2815): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2815): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2815): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:2856): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (zenity:2856): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2856): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2856): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2472): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 28521 requests (28521 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Sat Apr 30 07:47:15 UTC 2016
+localuser:pi being added to access control list
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+
+(process:2488): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Obt-Message: Xinerama extension is not present on the server
+
+(process:2483): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:2481): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2483): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2481): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2481): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2481): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2481): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2481): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2481): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2483): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2483): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2483): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2483): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2483): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2481): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2481): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2481): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2481): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to connected
+** Message: eth0: CARRIER
+** Message: eth0: Configured 192.168.130.125/24
+
+(lxpanel:2481): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(process:2527): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxterminal:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2527): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2481): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:3714): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxinput:3714): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxinput:3714): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxinput:3714): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(lxinput:3714): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxinput:3714): Gtk-CRITICAL **: IA__gtk_widget_set_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(lxpanel:2481): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:3719): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(lxinput:3719): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxinput:3719): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxinput:3719): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(lxinput:3719): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxinput:3719): Gtk-CRITICAL **: IA__gtk_widget_set_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(lxpanel:2481): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(openbox:2479): GLib-CRITICAL **: Source ID 9 was not found when attempting to remove it
+
+(openbox:2479): GLib-CRITICAL **: Source ID 12 was not found when attempting to remove it
+
+(process:3745): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+xrandr: Failed to get size of gamma for output default
+
+(lxrandr:3745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxrandr:3745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxrandr:3745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxrandr:3745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxrandr:3745): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2481): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(process:3750): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+** (gedit:3750): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (gedit:3750): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (gedit:3750): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2481): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
