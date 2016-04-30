@@ -11,12 +11,12 @@
 ~Msle0~/''):
 
 # Command Line History (newest to oldest):
+:q
+:w
+:wq
 :wq!
 :Wq!
-:wq
-:q
 :q!
-:w
 :W
 :syn on
 
@@ -31,16 +31,24 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+"0	LINE	0
+	interval = data.stdout.read(44100 * 2 * 2 // 10)
 ""1	LINE	0
+	(interval)
+"2	LINE	0
+	print(interval)
+"3	LINE	0
+	interval = data.stdout.read(44100 * 2 * 2 // 10)
+"4	LINE	0
 	pcms = alsaaudio.pcms();
 	mydevice = pcms[1];
 	
 	print(mydevice)
 	
 	play = alsaaudio.PCM(device=mydevice)
-"2	LINE	0
+"5	LINE	0
 	subprocess.Popen("curl", stdin=pa, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL)
-"3	LINE	0
+"6	LINE	0
 	# A sample configuration for dhcpcd.
 	# See dhcpcd.conf(5) for details.
 	
@@ -82,23 +90,30 @@
 	# A hook script is provided to lookup the hostname if not set by the DHCP
 	# server, but it should not be run by default.
 	nohook lookup-hostname
+"-	CHAR	0
+	    print
 
 # File marks:
-'0  42  19  ~/main.py
-'1  40  3  ~/main.py
-'2  28  42  ~/main.py
-'3  31  37  ~/main.py
-'4  38  40  ~/main.py
-'5  38  35  ~/main.py
-'6  1  0  ~/main.py
-'7  5  6  ~/main.py
-'8  38  0  ~/main.py
-'9  38  0  ~/main.py
+'0  43  4  ~/main.py
+'1  40  4  ~/main.py
+'2  37  0  ~/main.py
+'3  13  27  ~/main.py
+'4  43  3  ~/main.py
+'5  11  1  ~/main.py
+'6  9  6  ~/main.py
+'7  41  19  ~/main.py
+'8  28  42  ~/main.py
+'9  31  37  ~/main.py
 
 # Jumplist (newest first):
--'  42  19  ~/main.py
+-'  43  4  ~/main.py
 -'  1  0  ~/main.py
--'  40  3  ~/main.py
+-'  40  4  ~/main.py
+-'  37  0  ~/main.py
+-'  13  27  ~/main.py
+-'  11  1  ~/main.py
+-'  9  6  ~/main.py
+-'  41  19  ~/main.py
 -'  28  42  ~/main.py
 -'  31  37  ~/main.py
 -'  29  2  ~/main.py
@@ -111,7 +126,6 @@
 -'  21  25  ~/main.py
 -'  15  0  ~/main.py
 -'  12  3  ~/main.py
--'  11  5  ~/main.py
 -'  8  49  ~/main.py
 -'  7  13  ~/main.py
 -'  4  33  /etc/dhcpcd.conf
@@ -188,24 +202,12 @@
 -'  37  21  ~/pika-vim/deploy.py
 -'  1  0  ~/pika-vim/deploy.py
 -'  3  14  ~/pika-vim/deploy.py
--'  37  21  ~/pika-vim/deploy.py
--'  1  0  ~/pika-vim/deploy.py
--'  3  14  ~/pika-vim/deploy.py
 
 # History of marks within files (newest to oldest):
 
 > ~/main.py
-	"	42	19
-	^	42	23
-	.	42	22
-	+	14	17
-	+	21	0
-	+	3	16
-	+	21	36
-	+	14	17
-	+	15	0
-	+	21	32
-	+	21	93
+	"	43	4
+	.	43	0
 	+	21	93
 	+	21	17
 	+	2	0
@@ -279,14 +281,14 @@
 	+	29	0
 	+	33	0
 	+	34	0
-	+	42	14
+	+	41	14
 	+	38	0
 	+	39	45
-	+	42	11
-	+	43	47
+	+	41	11
+	+	42	47
 	+	39	43
-	+	42	20
-	+	43	22
+	+	41	20
+	+	42	22
 	+	29	0
 	+	28	33
 	+	28	24
@@ -295,9 +297,17 @@
 	+	30	17
 	+	31	37
 	+	28	43
-	+	42	18
+	+	41	18
 	+	40	3
+	+	41	22
+	+	9	7
+	+	11	1
 	+	42	22
+	+	42	0
+	+	43	3
+	+	13	28
+	+	40	0
+	+	43	0
 	z	2	0
 
 > /etc/dhcpcd.conf

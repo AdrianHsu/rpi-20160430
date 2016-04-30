@@ -6,11 +6,11 @@ import alsaaudio
 
 print("hello")
 
-url = "https://www.youtube.com/watch?v=PaEnaoydUUo"
+url = "ctlnamzyfLo"
 video = pafy.new(url)
-print(video.title)
+# print(video.title)
 
-stream = video.getbestaudio("m4a", "true")
+stream = video.getbestaudio()
 print(stream.url)
 
 par1 = ["curl", stream.url]
@@ -37,8 +37,8 @@ data = subprocess.Popen(par,
         stderr=subprocess.PIPE)
 
 interval = data.stdout.read(44100 * 2 * 2 // 10)
-type(interval)
 
 while(interval != b''):
     play.write(interval)
+    interval = data.stdout.read(44100 * 2 * 2 // 10)
 print("end")
